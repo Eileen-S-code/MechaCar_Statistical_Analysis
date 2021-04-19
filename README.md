@@ -15,11 +15,16 @@ In total the manufacturing data meet this criteria, however individually, lot 3 
 ## T-Tests on Suspension Coils
 -Briefly summarize your interpretation and findings for the t-test results
 As a total all the lots together are not statistically different than the sample population
+
 ![t_test_all](https://user-images.githubusercontent.com/75797531/115170526-7beb1d80-a086-11eb-82fa-c4a45eb77513.PNG)
 Both lot 1 and 2 are not different from the sample population
+
 ![t_test_lot1](https://user-images.githubusercontent.com/75797531/115170733-f9169280-a086-11eb-900e-702dd57d1361.PNG)
+
 ![t_test_lot2](https://user-images.githubusercontent.com/75797531/115170754-09c70880-a087-11eb-92ad-4526e113af78.PNG)
+
 Lot three has a p-value of 0.04 meaning that the lot is statistically different from the sample population
+
 ![t_test_lot3](https://user-images.githubusercontent.com/75797531/115170774-121f4380-a087-11eb-84c8-3123507b0052.PNG)
 
 ## Study Design: MechaCar vs Competition
