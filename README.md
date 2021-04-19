@@ -14,9 +14,11 @@ In total the manufacturing data meet this criteria, however individually, lot 3 
 
 ## T-Tests on Suspension Coils
 -Briefly summarize your interpretation and findings for the t-test results
+
 As a total all the lots together are not statistically different than the sample population
 
 ![t_test_all](https://user-images.githubusercontent.com/75797531/115170526-7beb1d80-a086-11eb-82fa-c4a45eb77513.PNG)
+
 Both lot 1 and 2 are not different from the sample population
 
 ![t_test_lot1](https://user-images.githubusercontent.com/75797531/115170733-f9169280-a086-11eb-900e-702dd57d1361.PNG)
